@@ -38,3 +38,6 @@ This project was developed as part of hands-on learning in web development.
 
 ## 📁 Project Structure
 
+
+🔗 **Live Preview:** https://wareswapnil.github.io/sweet-shop/
+
